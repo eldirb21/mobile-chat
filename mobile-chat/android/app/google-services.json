@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1045272841776",
+    "firebase_url": "https://chat-3d1a8.firebaseio.com",
+    "project_id": "chat-3d1a8",
+    "storage_bucket": "chat-3d1a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045272841776:android:88eedb2d392b72db8967f5",
+        "android_client_info": {
+          "package_name": "com.enigma.swipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045272841776-omlgmapr3j4loun19ossads65jtcptbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkFJ6wjfLJq73zxyPnBfllgZzyoaMnrrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045272841776-omlgmapr3j4loun19ossads65jtcptbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045272841776:android:f29f1352021c3c7e8967f5",
+        "android_client_info": {
+          "package_name": "com.swipes2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045272841776-omlgmapr3j4loun19ossads65jtcptbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkFJ6wjfLJq73zxyPnBfllgZzyoaMnrrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045272841776-omlgmapr3j4loun19ossads65jtcptbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+export const ADD_EVENT = 'ADD_EVENT'
+export const ADD_TODO = 'ADD_TODO'
+export const EVENT_ID = 'EVENT_ID'
+export const POST_EVENT = 'POST_EVENT'
+export const POST_TODO = 'POST_TODO'
+export const TODO_ID = 'TODO_ID'
